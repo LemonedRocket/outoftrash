@@ -1,0 +1,2 @@
+# outoftrash
+Nothing
