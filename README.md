@@ -1,2 +1,5 @@
 # outoftrash
-Nothing
+
+Nothing.
+
+This is the beginning.
